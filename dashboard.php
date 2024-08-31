@@ -226,10 +226,12 @@ $people = $stmt->fetchAll(PDO::FETCH_ASSOC);
         </div>
     </div>
     <!-- ====== Dashboard Section End -->
+     <!-- ====== Dashboard scripts Start -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="./JS/gender.js"></script>
     <script src="./JS/bar.js"></script>
     <script src="./JS/profession.js"></script>
+     <!-- ====== Dashboard scripts End -->
 </body>
 <!-- ====== Footer Section Start -->
 <?php include 'Includes/footer.php'; ?>
