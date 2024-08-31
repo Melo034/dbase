@@ -6,13 +6,12 @@
 
 1. [Website Screenshots](#website-screenshots)
 2. [Features](#features)
-3. [Data Collection](#Data-Collection)
-4. [Technology Overview](#technology-overview)
+3. [Technology Overview](#technology-overview)
    - [Front End](#front-end)
    - [Back End](#back-end)
-5. [Installation Requirements](#installation-requirements)
-6. [Installation Steps](#installation-steps)
-7. [Usage](#usage)
+4. [Installation Requirements](#installation-requirements)
+5. [Installation Steps](#installation-steps)
+6. [Usage](#usage)
 
 ## Website Screenshots
 
@@ -33,19 +32,6 @@
   - Bar charts
   - Table with names, genders, and professions
 - **Quick Summary**: Shows the count of each profession.
-
-# Data Collection Form and Dashboard
-
-## Form Interface
-- **Name:** Text input for the user's name.
-- **Email:** Email input for the user's email address.
-- **Age:** Number input for the user's age.
-- **Gender:** Dropdown menu for selecting gender.
-- **Feedback:** Textarea for user feedback.
-
-## Dashboard
-- **Age Distribution Chart:** A bar chart displaying the ages collected from the form.
-- **Gender Distribution Chart:** A pie chart showing the distribution of genders.
 
   
 ## Technology Overview
@@ -87,7 +73,7 @@ To set up idea pulse on your local machine, follow these steps:
 
 2. **Navigate to the project directory:**
    ```bash
-   cd idea_pulse
+   cd dbase
 
 3. **Set up your local server:**
    - If using Laragon or Xampp, place the project folder in the www/htdocs directory.
@@ -114,4 +100,4 @@ To set up idea pulse on your local machine, follow these steps:
 
 ## Live Demo
 
-You can also explore a live version of the project here: [IDEAPULSE Live Demo](https://problemsolvingsl.com/dbase/)
+You can also explore a live version of the project here: [dbase Live Demo](https://problemsolvingsl.com/dbase/)
