@@ -80,13 +80,6 @@
         </div>
     </footer>
 </div>
-<style scoped>
-    .svg-icon path,
-    .svg-icon polygon,
-    .svg-icon rect {
-        fill: currentColor;
-    }
-</style>
 <script>
     function footerComponent() {
         return {
