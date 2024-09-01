@@ -70,7 +70,7 @@ session_start();
                         </select>
                     </div>
                     <div>
-                        <label class="font-medium">Select Gender</label>
+                        <label class="font-medium">Select Profession</label>
                         <select id="position" name="position" class="w-full mt-2 px-3 py-2 text-gray-500 bg-transparent outline-none border focus:border-indigo-600 shadow-sm rounded-lg">
                             <option selected>Choose a Profession</option>
                             <option value="d">Doctor</option>
