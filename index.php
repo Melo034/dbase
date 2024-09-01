@@ -8,7 +8,7 @@ session_start();
     <?php include 'Includes/header.php'; ?>
 </head>
 
-<body class="bg-gradient-to-r from-red-400 to-red-900">
+<body class="bg-gradient-to-r from-red-400 to-red-900 overflow-x-hidden">
     <?php include 'Includes/navbar.php'; ?>
     <!-- ====== Form Section Start -->
     <main
