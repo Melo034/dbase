@@ -100,4 +100,4 @@ To set up idea pulse on your local machine, follow these steps:
 
 ## Live Demo
 
-You can also explore a live version of the project here: [dbase Live Demo](https://problemsolvingsl.com/dbase/)
+You can also explore a live version of the project here: [dbase Live Demo](https://dbase.ingmelo.com/)
